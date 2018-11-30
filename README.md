@@ -18,3 +18,8 @@ _(This is a work in progress :^)_
 | `_grid.sass` | Grid class with sizes and dimensions. |
 | `_mixins.sass` | Sass mixins, including the media queries for responsiveness. |
 | `_variables.sass` | Sass variables, including breakpoints, fonts and color definitions. |
+<br />
+<br />
+<br />
+
+_I aspire to live my life in such a way that when I die, people with say of me: "<b>That guy owed me a lot of money.</b>"_
