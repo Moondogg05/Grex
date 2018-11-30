@@ -4,7 +4,7 @@ A responsive framework built from the best parts of everything.
 
 _(This is a work in progress :^)_
 
-## List of files
+## SASS Files
 
 | File | Description |
 | ---- | ----------- |
