@@ -9,3 +9,9 @@ _(This is a work in progress :^)_
 | File | Description |
 | ---- | ----------- |
 | `main.sass` | Puts it all in the blender. |
+
+## Partials
+
+| File | Description |
+| ---- | ----------- |
+| `_main.sass` | Default styles for layout, font, etc. |
