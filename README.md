@@ -12,5 +12,6 @@ _(This is a work in progress :^)_
 
 ### Partials
 
-| `_grid.sass` | grid classes and sizes |
-| ------------ | ---------------------- |
+| File | Description |
+| ---- | ----------- |
+
